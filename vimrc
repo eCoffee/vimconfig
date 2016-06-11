@@ -11,7 +11,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 Plugin 'tmhedberg/SimpylFold'
 Plugin 'vim-scripts/indentpython.vim'
-" Plugin 'klen/python-mode'
+Plugin 'klen/python-mode'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'bling/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
